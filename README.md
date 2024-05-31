@@ -13,6 +13,7 @@ Film sitesi projesine hoş geldiniz! Bu proje, modern ve kullanıcı dostu bir f
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 
 ## Preview
