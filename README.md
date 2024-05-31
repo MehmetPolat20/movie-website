@@ -16,7 +16,7 @@ Film sitesi projesine hoş geldiniz! Bu proje, modern ve kullanıcı dostu bir f
 - Bootstrap
 - JavaScript
 
-## Preview
+## İzlenim
 ![FilmSitesi-ezgif com-video-to-gif-converter (1)](https://github.com/MehmetPolat20/movie-website/assets/150278524/f66f8f84-1b75-425a-b918-8d8a1ff48231)
 
 
