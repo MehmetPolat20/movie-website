@@ -20,7 +20,7 @@ Film sitesi projesine hoş geldiniz! Bu proje, modern ve kullanıcı dostu bir f
 ![FilmSitesi-ezgif com-video-to-gif-converter (1)](https://github.com/MehmetPolat20/movie-website/assets/150278524/f66f8f84-1b75-425a-b918-8d8a1ff48231)
 
 
-## For your questions and suggestions
+## Soru ve Öneri için
 <a href="mailto:mehmet.polat2035@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
